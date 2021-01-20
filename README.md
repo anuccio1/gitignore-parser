@@ -3,6 +3,7 @@
 A very simple `.gitignore` parser for node.js.
 
 [![Build Status](https://travis-ci.org/codemix/gitignore-parser.svg?branch=master)](https://travis-ci.org/codemix/gitignore-parser)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanuccio1%2Fgitignore-parser.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanuccio1%2Fgitignore-parser?ref=badge_shield)
 
 
 ## Installation
@@ -47,7 +48,9 @@ files.filter(gitignore.denies);
 ```
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanuccio1%2Fgitignore-parser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanuccio1%2Fgitignore-parser?ref=badge_large)
+
 ### License
 
 Apache 2, see [LICENSE.md](./LICENSE.md).
-
